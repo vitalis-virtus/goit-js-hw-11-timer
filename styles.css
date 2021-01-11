@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-size: 40px;
+  font-family: "Bebas Neue", cursive;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+}
+
+.field {
+  padding: 25px;
+}
